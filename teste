@@ -1,0 +1,62 @@
+[33mcommit 58977d4e513f45fbf00eae7a192b20f83050fe0c[m
+Author: Rafael Frota <rafael.frotac@gmail.com>
+Date:   Thu Jul 12 13:38:10 2018 -0300
+
+    teste
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex de3e22b..f4502b0 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,7 +1,7 @@[m
+ <!DOCTYPE html>[m
+ <html>[m
+ <head>[m
+[31m-	<title>Projeto git</title>[m
+[32m+[m	[32m<title>Projeto git 1</title>[m
+ </head>[m
+ <body>[m
+ [m
+
+[33mcommit 81a620bd56553f985df470b7f493fbefe2b2491d[m
+Author: Rafael Frota <rafael.frotac@gmail.com>
+Date:   Thu Jul 12 13:28:10 2018 -0300
+
+    alteração do titulo da página
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex bed4951..de3e22b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,7 +1,7 @@[m
+ <!DOCTYPE html>[m
+ <html>[m
+ <head>[m
+[31m-	<title>teste</title>[m
+[32m+[m	[32m<title>Projeto git</title>[m
+ </head>[m
+ <body>[m
+ [m
+
+[33mcommit 824fb843e77cc4043a6bf2ea7563f476ee032c7a[m
+Author: Rafael Frota <rafael.frotac@gmail.com>
+Date:   Thu Jul 12 13:25:00 2018 -0300
+
+    criando o projeto
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bed4951[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<title>teste</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
